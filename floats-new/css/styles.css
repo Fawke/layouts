@@ -1,0 +1,40 @@
+body {
+  margin: 0px;
+}
+
+header {
+  background-color: #99DDC8;
+  height: 10vh;
+}
+
+nav {
+  background-color: #95BF74;
+  height: 5vh;
+}
+
+aside {
+  background-color: #659B5E;
+  height: 70vh;
+  width: 20%;
+  float: left;
+}
+
+main {
+  float: left;
+  background-color: #556F44;
+  height: 70vh;
+  width: 60%;
+}
+
+section {
+  background-color: #283F3B;
+  float: right;
+  height: 70vh;
+  width: 20%;
+}
+
+footer {
+  clear: both;
+  background-color: #99DDC8;
+  height: 15vh;
+}
